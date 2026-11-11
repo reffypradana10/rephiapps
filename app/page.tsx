@@ -1,9 +1,7 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div>
-      <h1>Ini Website Rephi</h1>
+      <h1>Ini Website</h1>
     </div>
   );
 }
